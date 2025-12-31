@@ -1,3 +1,6 @@
+build.py
 clean-attrs.lua
-COMMAND.md
+build.sh
 minimal.css
+template.html
+COMMAND.md
